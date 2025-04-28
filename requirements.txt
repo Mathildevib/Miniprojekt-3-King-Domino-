@@ -1,0 +1,5 @@
+numpy==2.2.5
+opencv_python==4.11.0.86
+pandas==2.2.3
+scikit_learn==1.6.1
+skimage==0.0
